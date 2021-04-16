@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [0.10.2] - 2021-04-16
+### Fixed
+- LoadRecords and LoadStructs "NAN" removed from nanValues
+
 ## [0.10.1] - 2019-11-08
 ### Fixed
 - LoadRecords printing type debug information
